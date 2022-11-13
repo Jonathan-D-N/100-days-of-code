@@ -1,10 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: November, 11, 2022
+### Day 1: November, 12, 2022
 
-**Today's Progress**: Began rewrite on first Rock Paper Scissors game for The Odin Project. Rewriting to remove all usage of if else.
+**Today's Progress**: Finalized fundamental rewrite of Rock Paper Scissors project without the use of if/else statements.
 
-**Thoughts:** It's been a busy couple of weeks keeping me away from learning and progressing. I'm excited to jump back in to it and to begin this challenge.
-I think rewriting this simple program without the use of if else will help me grow and will help me get back in to things.
+**Thoughts:** I'm super excited that I learned this new method of comparing results without using conditional branching. I used a 2D array and indexed the comparisons I needed in to that array, and used the results to get my solution. So excited to learn about that, I want to work more with it th is week.
 
 **Link to work:** [TOP-rock-paper-scissors](https://github.com/Jonathan-D-N/TOP-rock-paper-scissors)
