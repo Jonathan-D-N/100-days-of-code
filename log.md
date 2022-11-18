@@ -1,8 +1,18 @@
 
-# 100 Days Of Code - Log
+# 100 Days Of Code -
 
+### Day 6: November, 17, 2022
 
-### Day 5: November, 15, 2022
+**Today's Progress**: Decent progress today. I learned a bit more about how to manipulate DOM elements with JS. I learned that css is a pain (again).
+I learned that there are many built-in functions in the JS language.
+
+**Thoughts:** Regarding built-in functions, I learned that for the learning experience, sometimes it's good to figure out other solutions that don't utilize the built-in functions.
+Case in point: Reversing a string. 
+
+**Link to work:** [animateScroll](https://github.com/Jonathan-D-N/animateScroll)
+___________________________________________________________________________________________________________________________________________
+
+### Day 5: November, 16, 2022
 
 **Today's Progress**: Huge progress today. I succesfully manipulated the DOM for the first time. I made a very simple animation on scroll event to change an element's opacity.
 
