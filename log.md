@@ -1,5 +1,13 @@
 
 # 100 Days Of Code -
+### Day 7: November, 18, 2022
+
+**Today's Progress**: Today I learned that Arrays are hard to deal with. I ran through some practice challenges as part of TOP and discovered that I don't understand them well enough.
+
+**Thoughts:** I will spend more time this week learning about Arrays and how they work. 
+
+**Link to work:** [Javascript-exercises](https://github.com/Jonathan-D-N/javascript-exercises)
+___________________________________________________________________________________________________________________________________________
 
 ### Day 6: November, 17, 2022
 
